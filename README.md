@@ -1,6 +1,6 @@
 # Hi, I am Moeletsi👋🏽
 
-I’m a 20 year old beginner software developer based in South Africa, and I’m passionate about not only crafting digital experiences but crafting products that people love. Computers have fascinated me since childhood, and now, I'm turning that fascination into action & innovation.
+I’m a 20 year old junior software developer based in South Africa, and I’m passionate about not only crafting digital experiences but crafting products that people love. Computers have fascinated me since childhood, and now, I'm turning that fascination into action & innovation.
 
 - Stay updated with my journey on Instagram @themoeletsimelamu
 
